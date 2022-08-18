@@ -1,12 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
 
-**Here are some ideas to get you started:**
+# CollegePartner
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+~ Your college companion ~
+
+</div>
+
+<div align="center">
+
+[collegepartner.me »](http://www.collegepartner.me/)
+
+</div>
+
+---
+
+We are here to help you with all things you need in college to grow, get access to quality notes, and carrier guide
