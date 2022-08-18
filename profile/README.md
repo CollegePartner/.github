@@ -1,6 +1,7 @@
 <div align="center">
 
-![Banner](https://user-images.githubusercontent.com/74916308/185497264-e7392f02-4ea6-49fd-b3c3-ba53a374b03f.png)
+![Banner](https://user-images.githubusercontent.com/74916308/185497517-53c11743-0b5b-4265-893a-e62c7a915925.png)
+
 
 # CollegePartner
 
